@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willie3011
 - 👀 I’m interested in Web Deveopment
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJs, NodeJs, MongoDB
+- 💞️ I am currently proficient in HTML, CSS, JavaScript, .NET, C#, SQL, Database Administration
 - 📫 How to reach me willemapril33@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Willie3011
-- 👀 I’m interested in Frontend Development and Fullstack Development
+- 👀 I’m interested in Web Development and Fullstack Development
 - 💞️ I am proficient in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, SQL, MongoDB(NOSQL)
 - 📫 How to reach me willemapril33@gmail.com & 0813182699
